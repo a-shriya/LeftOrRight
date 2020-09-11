@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LeftOrRight</string>
+    <string name="houseName">HOUSE</string>
+    <string name="description"> Description</string>
+    <string name="choose">Which House do you want to be in?</string>
+    <string name="nextPlease">SHOW HOUSE!</string>
+    <string name="putMeHere">Put Me Here!</string>
+    <string name="welcome">Welcome to Hogwarts!</string>
+</resources>
